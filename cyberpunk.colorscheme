@@ -1,0 +1,99 @@
+[Background]
+Bold=false
+Color=33, 31, 70
+
+[BackgroundIntense]
+Bold=false
+Color=33, 31, 70
+-------------------------
+
+[Color0]
+Bold=false
+Color=5, 4, 4
+
+[Color0Intense]
+Bold=false
+Color=84, 147, 225
+-------------------------
+
+[Color1]
+Bold=false
+Color=15, 74, 196
+
+
+[Color1Intense]
+Bold=false
+Color=27, 150, 199
+-------------------------
+
+[Color2]
+Bold=false
+Color=75, 176, 24
+
+
+[Color2Intense]
+Bold=false
+Color=59, 255, 110
+-------------------------
+
+[Color3]
+Bold=false
+Color=231, 116, 30
+
+[Color3Intense]
+Bold=false
+Color=239, 195, 27
+-------------------------
+
+[Color4]
+Bold=false
+Color=188, 0, 21
+
+
+[Color4Intense]
+Bold=false
+Color=251, 96, 91
+-------------------------
+
+[Color5]
+Bold=false
+Color=103, 91, 147
+
+
+[Color5Intense]
+Bold=false
+Color=154, 91, 84
+-------------------------
+
+[Color6]
+Bold=false
+Color=112, 165, 153
+
+
+[Color6Intense]
+Bold=true
+Color=198, 250, 242
+-------------------------
+
+[Color7]
+Bold=false
+Color=246, 220, 190
+
+
+[Color7Intense]
+Bold=false
+Color=246, 245, 251
+-------------------------
+
+[Foreground]
+Bold=false
+Color=229, 229, 229
+
+
+[ForegroundIntense]
+Bold=true
+Color=229, 229, 229
+-------------------------
+
+[General]
+Description=Cyberpunk Colors
